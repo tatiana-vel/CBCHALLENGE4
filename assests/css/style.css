@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.border-top{
+    border-bottom: double black 5px;
+}
